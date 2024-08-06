@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Vivek</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [Profilevk.vercel.app]([profilevk.vercel.app](https://profilevk.vercel.app/))
+- 👨‍💻 All of my projects are available at [Profilevk.vercel.app]((https://profilevk.vercel.app/))
 
-- 💬 Ask me about **React,frontend development**
+- 💬 Ask me about **React,frontend development,Data Science**
 
 - 📫 How to reach me **atrivivek001@gmail.com**
 
